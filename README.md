@@ -1,7 +1,7 @@
 <div>
   <h1> Olá sou Marcos Wagner programador Full-Stack</h1>
   
-  <h3>Durante 5 anos, trabalhei como Designer Gráfico, o que me motivou a ser um Desenvolvedor Front-end. Além disso, realizei trabalho voluntário como Desenvolvedor Back-end (Python-Flask) e possuo conhecimento técnico em: React, SASS, Bootstrap, Styled-components e TypeScript.
+  <h3>Durante 5 anos, trabalhei como Designer Gráfico, o que me motivou a ser um Desenvolvedor Front-end. Possuo conhecimento técnico em: React, SASS, Bootstrap, Styled-components e TypeScript.
 
 Me considero uma pessoa determinada e que gosta de desafios. Meu propósito com programação é conhecer novas pessoas e trocar conhecimentos com elas, agregando valor a cada uma. </h3>
 
